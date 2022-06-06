@@ -20,6 +20,8 @@ public class TestBase {
 		webdriver = new ChromeDriver();
 		webdriver.manage().window().maximize();
 		webdriver.manage().deleteAllCookies();
+		webdriver.manage().deleteAllCookies();
+		webdriver.manage().deleteAllCookies();
 
 
 
